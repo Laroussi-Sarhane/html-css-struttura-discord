@@ -11,6 +11,7 @@ header{
   justify-content: space-around;
   background-color:#3161E0;
   height: 80px;
+  border: solid blue;
 }
 nav{
   width: 1000px;
@@ -32,15 +33,22 @@ nav ul li a:hover{
 .jambotron-container{
   background-color: #3161E0;
   height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  margin: top 50px;;
+
 }
 .jambo{
   background-color: pink;
   height: 200px;
   width: 500px;
+  margin-top: 50px;
   display: flex;
   justify-content: center;
   align-items:flex-end;
   margin: auto;
+  
   
 }
 .bottoni-jumb{
