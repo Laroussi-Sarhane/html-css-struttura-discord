@@ -191,7 +191,8 @@ nav ul li a:hover{
     border: solid black;
   }
   .last-box{
-    height: 200px;
+    height: 100px;
+    width: 600px;
     margin: auto;
     display: flex;
     background-color: aqua;
@@ -205,13 +206,21 @@ nav ul li a:hover{
     background-color: azure;
     justify-content: center;
     align-content: center;
-    margin-top: 80px;
+    
   }
   .logo-footer{
     display: flex;
-    margin-top: 80px;
+    justify-content: center;
+    align-content: center;
     
-
+  }
+  .last-footer-box{
+    background-color: yellowgreen;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items:center;
   }
   
   
