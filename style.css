@@ -138,20 +138,43 @@ nav ul li a:hover{
   display: flex;
   justify-content: center;
   }
+  /* fine box3 */
+
+  /*  box 4*/
+
   .container4{
     background-color: rgb(104, 153, 6);
-    height: 400px;
+    height: 600px;
     margin: auto;
     display: flex;
     justify-content: center;
     align-items:center;
   }
   .quadrato{
-  height: 300px;
-  width: 400px;
+  height: 500px;
+  width: 600px;
   display: inline-block;
   background-color: blue;
   display: flex;
   justify-content: center;
+  }
+  .testo4{
+    width: 400px;
+    height: 250px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: aqua;
+    margin-top: 5px;
+  }
+  
+  .immagine4{
+    width: 400px;
+    height: 100px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 
   }
