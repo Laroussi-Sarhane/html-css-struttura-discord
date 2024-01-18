@@ -176,24 +176,17 @@ nav ul li a:hover{
     display: inline-block;
     background-color: blue;
     display: flex;
-    justify-content: center;
     flex-direction: column;
-    justify-content:space-between;
+    
   }
   .colonna1{
-    height: 400px;
+    height: 600px;
     width:150px;
     background-color: red;
     display: flex;
     border: solid black;
   }
-  .colonna2{
-    height: 400px;
-    width:100px;
-    background-color: rgb(53, 5, 5);
-    border: solid black;
-    display: inline-block;
-  }
+  
   
 
 
