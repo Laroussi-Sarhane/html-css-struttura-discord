@@ -150,31 +150,54 @@ nav ul li a:hover{
     justify-content: center;
     align-items:center;
   }
+  
   .quadrato{
+    height: 500px;
+    width: 600px;
+    display: inline-block;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+  }
+  /*  fine box 4*/
+
+  /* footer */
+  .box{
+    background-color: rgb(48, 71, 1);
   height: 500px;
-  width: 600px;
-  display: inline-block;
-  background-color: blue;
+  margin: auto;
   display: flex;
   justify-content: center;
+  align-items:center;
   }
-  .testo4{
-    width: 400px;
-    height: 250px;
+  .colonne{
+    height: 400px;
+    width: 600px;
+    display: inline-block;
+    background-color: blue;
     display: flex;
-    align-items: flex-start;
     justify-content: center;
-    background-color: aqua;
-    margin-top: 5px;
+    flex-direction: column;
+    justify-content:space-between;
   }
-  
-  .immagine4{
-    width: 400px;
-    height: 100px;
+  .colonna1{
+    height: 400px;
+    width:150px;
     background-color: red;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    
-
+    border: solid black;
   }
+  .colonna2{
+    height: 400px;
+    width:100px;
+    background-color: rgb(53, 5, 5);
+    border: solid black;
+    display: inline-block;
+  }
+  
+
+
+  
+
+
+
