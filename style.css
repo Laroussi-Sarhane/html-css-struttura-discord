@@ -137,3 +137,21 @@ nav ul li a:hover{
   background-color: pink;
   display: flex;
   justify-content: center;
+  }
+  .container4{
+    background-color: rgb(104, 153, 6);
+    height: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+  .quadrato{
+  height: 300px;
+  width: 400px;
+  display: inline-block;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+
+  }
