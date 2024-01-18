@@ -196,7 +196,6 @@ nav ul li a:hover{
     display: flex;
     background-color: aqua;
     justify-content: space-between;
-    margin: auto;
     align-content: center;
   }
   .bottone-last{
@@ -206,9 +205,12 @@ nav ul li a:hover{
     background-color: azure;
     justify-content: center;
     align-content: center;
+    margin-top: 80px;
   }
   .logo-footer{
     display: flex;
+    margin-top: 80px;
+    
 
   }
   
