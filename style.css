@@ -173,18 +173,43 @@ nav ul li a:hover{
   .colonne{
     height: 400px;
     width: 600px;
-    display: inline-block;
     background-color: blue;
     display: flex;
-    flex-direction: column;
-    
   }
   .colonna1{
-    height: 600px;
-    width:150px;
+    height: 400px;
+    width:200px;
     background-color: red;
     display: flex;
     border: solid black;
+  }
+  .colonna-u{
+    height: 400px;
+    width: 100px;
+    background-color: aqua;
+    display: flex;
+    border: solid black;
+  }
+  .last-box{
+    height: 200px;
+    margin: auto;
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    margin: auto;
+    align-content: center;
+  }
+  .bottone-last{
+    height: 50px;
+    width: 70px;
+    display: flex;
+    background-color: azure;
+    justify-content: center;
+    align-content: center;
+  }
+  .logo-footer{
+    display: flex;
+
   }
   
   
