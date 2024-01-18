@@ -57,3 +57,83 @@ nav ul li a:hover{
   align-items: flex-end;
 }
 /* jambotron fine */
+
+/* box1 */
+.container1{
+  background-color: yellowgreen;
+  height: 400px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+.immagine1{
+  height: 250px;
+  width: 300px;
+  display: inline-block;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+}
+.testo1{
+  height: 250px;
+  width: 150px;
+  display: inline-block;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+}
+/* fine box1 */
+
+/* box2 */
+
+.container2{
+  background-color: rgb(145, 96, 5);
+  height: 400px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+.testo2{
+  height: 250px;
+  width: 150px;
+  display: inline-block;
+  background-color:pink;
+  display: flex;
+  justify-content: center;
+}
+.immagine2{
+  height: 250px;
+  width: 300px;
+  display: inline-block;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+}
+/* fine box2 */
+
+/* box3 */
+.container3{
+  background-color: yellowgreen;
+  height: 400px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+.immagine3{
+  height: 250px;
+  width: 300px;
+  display: inline-block;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+}
+.testo3{
+  height: 250px;
+  width: 150px;
+  display: inline-block;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
