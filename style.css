@@ -210,8 +210,7 @@ nav ul li a:hover{
   }
   .logo-footer{
     display: flex;
-    justify-content: center;
-    align-content: center;
+    
     
   }
   .last-footer-box{
